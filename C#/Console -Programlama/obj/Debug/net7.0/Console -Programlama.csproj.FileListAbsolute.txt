@@ -1,0 +1,15 @@
+c:\Users\PC\Documents\VsCodeProjectFile\C#\Console -Programlama\bin\Debug\net7.0\Console -Programlama.exe
+c:\Users\PC\Documents\VsCodeProjectFile\C#\Console -Programlama\bin\Debug\net7.0\Console -Programlama.deps.json
+c:\Users\PC\Documents\VsCodeProjectFile\C#\Console -Programlama\bin\Debug\net7.0\Console -Programlama.runtimeconfig.json
+c:\Users\PC\Documents\VsCodeProjectFile\C#\Console -Programlama\bin\Debug\net7.0\Console -Programlama.dll
+c:\Users\PC\Documents\VsCodeProjectFile\C#\Console -Programlama\bin\Debug\net7.0\Console -Programlama.pdb
+c:\Users\PC\Documents\VsCodeProjectFile\C#\Console -Programlama\obj\Debug\net7.0\Console -Programlama.csproj.AssemblyReference.cache
+c:\Users\PC\Documents\VsCodeProjectFile\C#\Console -Programlama\obj\Debug\net7.0\Console -Programlama.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\PC\Documents\VsCodeProjectFile\C#\Console -Programlama\obj\Debug\net7.0\Console -Programlama.AssemblyInfoInputs.cache
+c:\Users\PC\Documents\VsCodeProjectFile\C#\Console -Programlama\obj\Debug\net7.0\Console -Programlama.AssemblyInfo.cs
+c:\Users\PC\Documents\VsCodeProjectFile\C#\Console -Programlama\obj\Debug\net7.0\Console -Programlama.csproj.CoreCompileInputs.cache
+c:\Users\PC\Documents\VsCodeProjectFile\C#\Console -Programlama\obj\Debug\net7.0\Console -Programlama.dll
+c:\Users\PC\Documents\VsCodeProjectFile\C#\Console -Programlama\obj\Debug\net7.0\refint\Console -Programlama.dll
+c:\Users\PC\Documents\VsCodeProjectFile\C#\Console -Programlama\obj\Debug\net7.0\Console -Programlama.pdb
+c:\Users\PC\Documents\VsCodeProjectFile\C#\Console -Programlama\obj\Debug\net7.0\Console -Programlama.genruntimeconfig.cache
+c:\Users\PC\Documents\VsCodeProjectFile\C#\Console -Programlama\obj\Debug\net7.0\ref\Console -Programlama.dll

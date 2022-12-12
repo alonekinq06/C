@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\VsCodeProjectFile\C#\Console -Degiskenler\bin\Debug\net7.0\Console -Degiskenler.exe
+C:\Users\PC\Documents\VsCodeProjectFile\C#\Console -Degiskenler\bin\Debug\net7.0\Console -Degiskenler.deps.json
+C:\Users\PC\Documents\VsCodeProjectFile\C#\Console -Degiskenler\bin\Debug\net7.0\Console -Degiskenler.runtimeconfig.json
+C:\Users\PC\Documents\VsCodeProjectFile\C#\Console -Degiskenler\bin\Debug\net7.0\Console -Degiskenler.dll
+C:\Users\PC\Documents\VsCodeProjectFile\C#\Console -Degiskenler\bin\Debug\net7.0\Console -Degiskenler.pdb
+C:\Users\PC\Documents\VsCodeProjectFile\C#\Console -Degiskenler\obj\Debug\net7.0\Console -Degiskenler.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\VsCodeProjectFile\C#\Console -Degiskenler\obj\Debug\net7.0\Console -Degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\VsCodeProjectFile\C#\Console -Degiskenler\obj\Debug\net7.0\Console -Degiskenler.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\VsCodeProjectFile\C#\Console -Degiskenler\obj\Debug\net7.0\Console -Degiskenler.AssemblyInfo.cs
+C:\Users\PC\Documents\VsCodeProjectFile\C#\Console -Degiskenler\obj\Debug\net7.0\Console -Degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\VsCodeProjectFile\C#\Console -Degiskenler\obj\Debug\net7.0\Console -Degiskenler.dll
+C:\Users\PC\Documents\VsCodeProjectFile\C#\Console -Degiskenler\obj\Debug\net7.0\refint\Console -Degiskenler.dll
+C:\Users\PC\Documents\VsCodeProjectFile\C#\Console -Degiskenler\obj\Debug\net7.0\Console -Degiskenler.pdb
+C:\Users\PC\Documents\VsCodeProjectFile\C#\Console -Degiskenler\obj\Debug\net7.0\Console -Degiskenler.genruntimeconfig.cache
+C:\Users\PC\Documents\VsCodeProjectFile\C#\Console -Degiskenler\obj\Debug\net7.0\ref\Console -Degiskenler.dll
