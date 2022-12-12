@@ -33,7 +33,7 @@ int int21 = int20 + Convert.ToInt32(str20) ;
 Console.WriteLine(int21) ;
 
 
-string nebu = DateTime.Now ("mm");
+string nebu = DateTime.Now (10.10.22);
 Console.WriteLine(nebu);
 
 
